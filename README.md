@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajala Praise</h1>
 <h3 align="center">A frontend developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/PraiseAjala" target="blank"><img src="https://img.shields.io/twitter/follow/bolu_xy?logo=twitter&style=for-the-badge" alt="Praise Ajala" /></a> </p>
+<p align="left"> <a href="https://twitter.com/PraiseAjala" target="blank"><img src="https://img.shields.io/twitter/follow/PraiseAjala?logo=twitter&style=for-the-badge" alt="Praise Ajala" /></a> </p>
 
 - 🌱 I’m currently learning **React javascript**
 
