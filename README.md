@@ -3,15 +3,18 @@
 
 <p align="left"> <a href="https://twitter.com/PraiseAjala" target="blank"><img src="https://img.shields.io/twitter/follow/PraiseAjala?logo=twitter&style=for-the-badge" alt="Praise Ajala" /></a> </p>
 
-- 🌱 I’m currently learning **React javascript**
+- 🌱 I’m currently learning **React, NextJS**
 
 - 👯 I’m looking to collaborate on **react projects**
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **ajalapraise1@gmail.com**
+- 📫 How to reach me via **ajalapraise1@gmail.com**
 
 - ⚡ Fun fact **lol**
+- 😊 I’m looking for help with open source projects, hackathons, internships, and frontend developer opportunities.
+- 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
+- 📫 You can view my resume **linktr.ee/praiseajala**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
