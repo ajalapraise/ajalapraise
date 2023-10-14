@@ -12,9 +12,14 @@
 - 📫 How to reach me via **ajalapraise1@gmail.com**
 
 - ⚡ Fun fact **lol**
+  
 - 😊 I’m looking for help with open source projects, hackathons, internships, and frontend developer opportunities.
+  
 - 💼 Job interests: Software Engineer, Frontend Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can view my resume **https://docs.google.com/document/d/1wPHQhnIB-C2TXNMCj-LAdqxvtwIub7oSXWNpsP-9Huo/edit?usp=sharing**
+  
+- 📫 You can view my resume **https://docs.google.com/document/d/1wPHQhnIB-C2TXNMCj-LAdqxvtwIub7oSXWNpsP-9Huo/**
+  
+- My Portfolio **https://linktr.ee/praiseajala**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
